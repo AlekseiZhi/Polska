@@ -4,9 +4,13 @@
 Вид файла: 
 
 b is 3
+
 c is 2
+
 result is (b+c)*3+10
+
 println (result+2)
+
 println b
 
 Второй метод работает с консолью.
